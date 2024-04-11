@@ -6,6 +6,8 @@ This project implements a Red-Black Tree data structure in C++. A Red-Black Tree
 
 - [Features](#features)
 - [Requirements](#requirements)
+- [Time Complexity](#time-complexity)
+- [Space Complexity](#space-complexity)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Functions](#functions)
@@ -40,6 +42,23 @@ This project implements a Red-Black Tree data structure in C++. A Red-Black Tree
     ./rbt
 
     ```
+
+## Time Complexity
+<h3>Search: O(log n)</h3>
+
+<p>The time complexity for searching in a Red-Black Tree is logarithmic in the number of nodes (n) in the tree. This is because the tree is balanced, meaning the height of the tree is approximately O(log n).</p>
+
+<h3>Insertion: O(log n)</h3>
+
+<p>The time complexity for inserting a new key into a Red-Black Tree is also logarithmic in the number of nodes. The insertion may involve rebalancing the tree, which is performed in O(log n) time.</p>
+
+<h3>Deletion: O(log n)</h3>
+
+<p>The time complexity for deleting a key from a Red-Black Tree is logarithmic in the number of nodes. Deletion may involve rebalancing the tree to maintain the Red-Black properties, which is performed in O(log n) time.</p>
+
+## Space Complexity
+<h3>Space: O(n)</h3>
+<p>The space complexity of a Red-Black Tree is proportional to the number of nodes in the tree (n). This includes the space taken by the nodes themselves (including keys, pointers, and color information).</p>
 
 
 ## Usage
