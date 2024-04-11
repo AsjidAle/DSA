@@ -6,6 +6,8 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
 
 ## Table of Contents
 
+1. [Requirements](#requirements)
+1. [Getting Started](#getting-started)
 1. [Introduction](#introduction)
 2. [Tree Algorithms](#tree-algorithms)
 3. [Graph Algorithms](#graph-algorithms)
@@ -15,12 +17,41 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
 7. [Optimization Algorithms](#optimization-algorithms)
 8. [Contributing](#contributing)
 
+
+## Requirements
+
+- A C++ compiler such as GCC or Clang
+
+## Getting Started
+
+1. Clone this repository to your local machine:
+    ```shell
+    git clone https://github.com/AsjidAle/DSA.git
+    ```
+2. Change to the project directory:
+    ```shell
+    cd DSA
+    ```
+3. Compile the source code using a C++ compiler:
+    ```shell
+    g++ -o rbt main.cpp
+    ```
+4. Run the program:
+    ```shell
+    ./rbt
+
+    ```
+
+
+
 ## Tree Algorithms
 
 - **Binary Search Tree**
 - **Self Balancing Tree**
   - AVL Tree
   - AVL+ Tree
+  - B Tree
+  - B+ Tree
   - AVL B Tree
   - Red-Black Tree
   - Dancing Tree
@@ -29,6 +60,7 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
   - Fusion Tree
   - Min Heap
   - Max Heap
+  - Splay Tree
   - Interval Tree
   - Link/Cut Tree
 
@@ -44,6 +76,7 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
   - Depth-First Search (DFS)
   - Depth-Limited Search (DLS)
   - Breadth-First Search (BFS)
+  - Best-First Search (BFS)
 - **Shortest Path**
   - Randomized Shortest Path
   - Dijkstra's Algorithm
@@ -102,3 +135,19 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
 ## Contributing
 
 Contributions are welcome! If you have ideas for additional algorithms, optimizations, or improvements to existing implementations, feel free to open an issue or submit a pull request. Please follow the established coding style and guidelines when contributing.
+
+To contribute to the project:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and test them.
+4. Submit a pull request.
+
+Please ensure your code follows the project's coding style and includes tests for new features or bug fixes.
+
+
+## Author
+
+- Asjid Ali (asjidale@gmail.com)
+
+Feel free to reach out to me with any questions or issues.
