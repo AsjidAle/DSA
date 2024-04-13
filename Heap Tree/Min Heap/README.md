@@ -32,7 +32,7 @@ This project implements a Min Heap data structure in C++. A Min Heap is a binary
 
 2. Change to the project directory:
     ```shell
-    cd b-tree-cpp
+    cd main-cpp
     ```
 3. Compile the source code using a C++ compiler:
   

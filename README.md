@@ -32,16 +32,7 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
     ```shell
     cd DSA
     ```
-3. Compile the source code using a C++ compiler:
-    ```shell
-    g++ -o rbt main.cpp
-    ```
-4. Run the program:
-    ```shell
-    ./rbt
-
-    ```
-
+3. You're there Now go to file your choice, compile and execute
 
 
 ## Tree Algorithms
