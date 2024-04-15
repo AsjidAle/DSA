@@ -98,9 +98,13 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
   - Quick Sort
   - Insertion Sort
   - Bubble Sort
+  - Block Sort
+  - Cycle Sort
   - Shell Sort
   - Comb Sort
   - Gnome Sort
+  - Gravity Sort
+  - Intro Sort
   - Odd-Even Sort
   - Bitonic Sort
   - Library Sort
