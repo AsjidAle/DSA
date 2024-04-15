@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) and Design and Analysis of Algorithms (DAA)
+# Data Structures and Algorithms (DSA) + Design and Analysis of Algorithms (DAA)
 
 ## Introduction
 
