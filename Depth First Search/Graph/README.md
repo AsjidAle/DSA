@@ -66,6 +66,6 @@ The implementation contains the following key functions:
 
 ## Author
 
-- Asjid Ali (asjidale@gmail.com)
+- Moizna Zaheer
 
 Feel free to reach out to me with any questions or issues.
