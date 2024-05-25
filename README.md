@@ -144,5 +144,7 @@ Please ensure your code follows the project's coding style and includes tests fo
 ## Author
 
 - Asjid Ali (asjidale@gmail.com)
+- Namluix (namluix@gmail.com)
+- Moizna Zaheer (<a href="https://github.com/Moizna-Zaheer">Moizna Zaheer</a>)
 
 Feel free to reach out to me with any questions or issues.
