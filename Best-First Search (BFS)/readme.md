@@ -1,4 +1,4 @@
-### Best-First Search (BFS) Implementation in C++
+### Best First Search (BFS) Implementation in C++
 
 This code demonstrates the implementation of the Best-First Search (BFS) algorithm for pathfinding in a graph using a heuristic.
 
