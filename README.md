@@ -60,6 +60,7 @@ Welcome to the Design and Analysis of Algorithms (DAA) project! This repository 
 - **Travelling Salesman Problem**
   - Brute Force
   - Dynamic Programming
+  - Genetic Algorithim
 - **Minimum Spanning Tree**
   - Prim's Algorithm
   - Kruskal's Algorithm
