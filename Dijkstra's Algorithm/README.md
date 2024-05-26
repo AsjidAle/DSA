@@ -1,4 +1,4 @@
-### Dijkstra's Algorithm Implementation in C++
+### Dijkstra's algorithm implementation using a priority queue in C++
 
 This code demonstrates the implementation of Dijkstra's algorithm for finding the shortest paths from a single source vertex to all other vertices in a graph with non-negative weights.
 
